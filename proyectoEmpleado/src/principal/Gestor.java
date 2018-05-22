@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 import daos.ConexionDao;
 import daos.DepartamentoDao;
 import daos.EmpleadoDao;
@@ -96,7 +98,7 @@ public class Gestor {
 		boolean correcto=false;
 		int codigo=0;
 		do{
-			System.out.println("¿Qué empleado quiere consultar?");
+			System.out.println("Â¿QuÃ© empleado quiere consultar?");
 			Scanner sc= new Scanner(System.in);
 			try{
 				codigo=sc.nextInt();
