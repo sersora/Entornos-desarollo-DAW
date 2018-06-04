@@ -1,3 +1,5 @@
+DANI WAS HERE
+
 package daos;
 
 import java.sql.Connection;
@@ -24,7 +26,7 @@ public class ConexionDao {
 			//Cargamos el driver para conectar con mysql
 		//	Class.forName("com.mysql.jdbc.Driver");
 			//Creamos la conexion utilizando la base de datos
-			//Seguido de el usuario y la contraseña para acceder
+			//Seguido de el usuario y la contraseÃ±a para acceder
 	        Connection 
 	        		con=DriverManager.getConnection
 	        		("jdbc:mysql://localhost/bd_empleado","root","");
